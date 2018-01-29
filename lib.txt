@@ -1,5 +1,0 @@
-bingb describe
-
-name changed. new name is bingc
-
-test how conflicts working rules
