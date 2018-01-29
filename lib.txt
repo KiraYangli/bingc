@@ -1,1 +1,3 @@
 bingb describe
+
+name changed. new name is bingc
