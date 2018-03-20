@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <button v-on:click="checklista">get!</button>
+    <button v-on:click="checklista">get list!</button>
     <ul>
       <li v-for="item in lista">
         {{ item.name }}=={{ item.age }}
